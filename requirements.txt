@@ -2,6 +2,7 @@ asttokens==2.2.1
 attrs==23.1.0
 Automat==22.10.0
 backcall==0.2.0
+beautifulsoup4==4.12.2
 certifi==2023.5.7
 cffi==1.15.1
 charset-normalizer==3.1.0
@@ -25,6 +26,7 @@ jedi==0.18.2
 jmespath==1.0.1
 jupyter_client==8.2.0
 jupyter_core==5.3.1
+Levenshtein==0.21.1
 lxml==4.9.2
 matplotlib-inline==0.1.6
 nest-asyncio==1.5.6
@@ -49,9 +51,11 @@ PyDispatcher==2.0.7
 Pygments==2.15.1
 pyOpenSSL==23.2.0
 python-dateutil==2.8.2
+python-Levenshtein==0.21.1
 pytz==2023.3
 pyzmq==25.1.0
 queuelib==1.6.2
+rapidfuzz==3.1.1
 requests==2.31.0
 requests-file==1.5.1
 scipy==1.10.1
@@ -59,6 +63,7 @@ Scrapy==2.9.0
 service-identity==23.1.0
 six==1.16.0
 smart-open==6.3.0
+soupsieve==2.4.1
 stack-data==0.6.2
 tldextract==3.4.4
 tornado==6.3.2
