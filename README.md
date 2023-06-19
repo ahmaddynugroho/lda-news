@@ -1,1 +1,3 @@
-idk, just install those 2 requirements txt
+`pip install -r requirements.txt`
+
+made with ♥
