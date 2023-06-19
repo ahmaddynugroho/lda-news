@@ -1,0 +1,1 @@
+idk, just install those 2 requirements txt
